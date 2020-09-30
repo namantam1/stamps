@@ -23,13 +23,13 @@ The Installation
 ================
 
 Simple with pip:
-
+```bash
 $ pip install stamps.py
-
+```
 Easy with setuptools (but you really shouldn't):
-
+```bash
 $ easy_install stamps.py
-
+```
 
 The Interface
 =============
